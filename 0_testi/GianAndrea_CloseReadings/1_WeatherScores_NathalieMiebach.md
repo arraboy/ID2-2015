@@ -40,5 +40,8 @@ Il progetto dell'artista è presentato in questo [VIDEO](http://www.ted.com/talk
 **Referenze**
 - Accosto il progetto di [John Cage, *4'33"*] (https://www.youtube.com/watch?v=JTEFKFiXSx4) perché tutte e due le opere hanno lo stesso contenuto simbolico: ogni composizione musicale è originale e diversa da quella precedente.
 
+![](http://whodhavethought.files.wordpress.com/2013/09/stephen-barrass-hypertension-singing-bowl.jpg?w=1280)
+- Accosto il progetto [Hypertension Singing Bowl] (http://blog.whodhavethought.com/2013/10/01/interview-stephen-barrass-and-his-singing-bowls/) perché, come per il progetto analizzato, l'opera che parte da una base di dati personali (come quelli della propria pressione sanguigna) diventa uno strumento che può essere suonato. La struttura infatti dipende dai dati registrati in un determinato tempo, e la loro caratteristica intrinseca ne determina una specifica e unica composizione sonora.
+
 ![] (http://upload.wikimedia.org/wikipedia/commons/4/47/Vassily_Kandinsky,_1923_-_Composition_8,_huile_sur_toile,_140_cm_x_201_cm,_Musée_Guggenheim,_New_York.jpg)
 - Accosto il progetto di Wassily Kandinsky, *Composizione VIII* per il simile approccio d'astrattezza tra le due composizioni.
